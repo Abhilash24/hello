@@ -37,22 +37,12 @@ export default class Header extends Component {
                             </NavItem>
 
                             <NavItem>
-                                <NavLink className="nav-link" to="/aboutus"> 
-                                    <span className="fa fa-info fa-lg"></span> About us
-                                </NavLink>
-                            </NavItem>
-
-                            <NavItem>
                                 <NavLink className="nav-link" to="/menu"> 
-                                    <span className="fa fa-list fa-lg"></span> Menu
+                                    <span className="fa fa-list fa-lg"></span> Poetic Inspiration
                                 </NavLink>
                             </NavItem>
 
-                            <NavItem>
-                                <NavLink className="nav-link" to="/contactus"> 
-                                    <span className="fa fa-address-card fa-lg"></span> Contact us
-                                </NavLink>
-                            </NavItem>
+        
                         </Nav>
                         </Collapse>
                     </div>
@@ -61,8 +51,8 @@ export default class Header extends Component {
                     <div className="container">
                         <div className="row row-header">
                             <div className="col-12 col-sm-6">
-                                <h1>Ristorante Con Fusion</h1>
-                                <p>We take inspiration from the world's jlsfjldsjfljldsjllj</p>
+                                <h1>Abhilash Ramteke</h1>
+                                <p>Welcome to my homepage!</p>
                             </div>
                         </div>
                     </div>

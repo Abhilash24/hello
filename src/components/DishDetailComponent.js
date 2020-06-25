@@ -20,7 +20,7 @@ import { Link } from 'react-router-dom';
                 <li key={comment.id} >
                     {comment.comment}
                     <br /><br />
-                    -- {comment.author}, {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: '2-digit' }).format(new Date(Date.parse(comment.date)))}
+                    -- {comment.author}
                     <br /><br />
                 </li>
             );

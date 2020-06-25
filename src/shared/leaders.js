@@ -28,11 +28,10 @@ export const LEADERS = [
     },
     {
       id: 3,
-      name: 'Alberto Somayya',
-      image: '/assets/images/alberto.png',
-      designation: 'Executive Chef',
+      name: 'My Graduation College- IIT Delhi',
+      image: '/assets/images/iit.jpeg',
       abbr: 'EC',
       featured: true,
-      description: 'Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!'
+      description: 'A lot of memories are associated with this college. I will be indebtful to this institution throughout my life for giving such wonderful experience.'
     }
   ];

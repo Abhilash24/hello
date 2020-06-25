@@ -2,42 +2,42 @@ export const DISHES =
     [
         {
         id: 0,
-        name:'Uthappizza',
-        image: '/assets/images/uthappizza.png',
+        name:'This is me',
+        image: '/assets/images/me.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
         featured: true,
-        description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'                    
+        description:'I am into tech stuff and sometimes lost in my own world of imagination. Hope to bring change someday.'                    
         },
         {
         id: 1,
-        name:'Zucchipakoda',
-        image: '/assets/images/zucchipakoda.png',
+        name:'Ahmed Faraz',
+        image: '/assets/images/ahmed-faraz.jpg',
         category: 'appetizer',
         label:'',
         price:'1.99',
         featured: false,
-        description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'
+        description:'Ye Wafa Ki Baten To Un Dini Ki Baten Hean Faraz…Jab Log Sacchy Or Un K Makaan Kachyy Hua Karte Thay'
         },
         {
         id: 2,
-        name:'Vadonut',
-        image: '/assets/images/vadonut.png',
+        name:'Faiz Ahmad Faiz',
+        image: '/assets/images/faiz.jpeg',
         category: 'appetizer',
         label:'New',
         price:'1.99',
         featured: false,
-        description:'A quintessential ConFusion experience, is it a vada or is it a donut?'
+        description:'aur bhī dukh haiñ zamāne meñ mohabbat ke sivā rāhateñ aur bhī haiñ vasl kī rāhat ke sivā'
         },
         {
         id: 3,
-        name:'ElaiCheese Cake',
-        image: '/assets/images/elaicheesecake.png',
+        name:'Parveen Shakir',
+        image: '/assets/images/Parveen-Shakir.jpg',
         category: 'dessert',
         label:'',
         price:'2.99',
         featured: false,
-        description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'
+        description:'chalne kā hausla nahīñ ruknā muhāl kar diyā, ishq ke is safar ne to mujh ko niDhāl kar diyā'
         }
     ];
