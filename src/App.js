@@ -7,7 +7,7 @@ class App extends Component {
 
   render() {
     return (
-      <HashRouter basename='https://abhilash24.github.io/my-app/'>
+      <HashRouter>
         <div>
           <Main />
         </div>
