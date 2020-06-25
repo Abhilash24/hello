@@ -29,7 +29,7 @@ export const LEADERS = [
     {
       id: 3,
       name: 'My Graduation College- IIT Delhi',
-      image: '/assets/images/iit.jpeg',
+      image: './assets/images/iit.jpeg',
       abbr: 'EC',
       featured: true,
       description: 'A lot of memories are associated with this college. I will be indebtful to this institution throughout my life for giving such wonderful experience.'

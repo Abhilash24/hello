@@ -13,7 +13,7 @@ export const DISHES =
         {
         id: 1,
         name:'Ahmed Faraz',
-        image: '/assets/images/ahmed-faraz.jpg',
+        image: './assets/images/ahmed-faraz.jpg',
         category: 'appetizer',
         label:'',
         price:'1.99',
@@ -23,7 +23,7 @@ export const DISHES =
         {
         id: 2,
         name:'Faiz Ahmad Faiz',
-        image: '/assets/images/faiz.jpeg',
+        image: './assets/images/faiz.jpeg',
         category: 'appetizer',
         label:'New',
         price:'1.99',
@@ -33,7 +33,7 @@ export const DISHES =
         {
         id: 3,
         name:'Parveen Shakir',
-        image: '/assets/images/Parveen-Shakir.jpg',
+        image: './assets/images/Parveen-Shakir.jpg',
         category: 'dessert',
         label:'',
         price:'2.99',
