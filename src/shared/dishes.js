@@ -3,7 +3,7 @@ export const DISHES =
         {
         id: 0,
         name:'This is me',
-        image: '/assets/images/me.png',
+        image: './assets/images/me.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
